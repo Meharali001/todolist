@@ -1,0 +1,87 @@
+ 
+  /* services start */
+  .Servicessec{
+    background-color: #e71212;
+    padding: 100px 0px ;
+    
+  
+  }
+  .Servicessec .cards {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 40px; 
+    row-gap: 140px;
+  }
+  .Servicessec .card{
+    height: 400px;
+  }
+  
+  .Servicessec a.mediam-btn {
+    
+    display: table;
+    margin: auto; 
+    margin-top: 20px;
+   
+  }
+  
+  
+  .Servicessec .card img{
+    width: 400px;
+    height: 400px;
+    
+  }
+  
+  .Servicessec .card h1{
+  
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    position: relative;
+    top: -18px;
+    font-family: 'myfont';
+    
+   
+  }
+  
+  
+  
+  .Servicessec .card:hover h1{
+        background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%) !important;
+         
+        
+        
+  }
+  
+  .Servicesheading{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  .Servicesheading h2.heading-txt {  
+    color: #000;
+    font-size: 60px;
+    width: 70%;
+    text-align: center;
+    font-family: 'myfont';
+    
+  }
+  
+  
+  
+  /* services end */
